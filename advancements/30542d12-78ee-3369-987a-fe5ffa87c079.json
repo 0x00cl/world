@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2019-08-30 11:51:58 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-23 13:15:15 -0400"
@@ -357,6 +363,7 @@
     "criteria": {
       "cooked_beef": "2019-08-22 01:12:18 -0400",
       "baked_potato": "2019-08-27 21:36:54 -0400",
+      "bread": "2019-08-31 22:08:44 -0400",
       "cooked_chicken": "2019-08-23 12:46:27 -0400"
     },
     "done": false
@@ -927,6 +934,12 @@
       "has_iron_shovel": "2019-08-22 01:02:25 -0400",
       "has_iron_pickaxe": "2019-08-22 01:02:25 -0400",
       "has_iron_sword": "2019-08-22 01:02:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2019-08-30 11:51:58 -0400"
     },
     "done": true
   },
@@ -1522,6 +1535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2019-08-30 11:51:37 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2019-08-27 23:00:43 -0400"
@@ -1789,6 +1808,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-08-22 01:03:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2019-08-30 11:51:58 -0400"
     },
     "done": true
   },
